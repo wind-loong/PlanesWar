@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PlanesWar" targetName="PlanesWar" />
+      <config projectName="PlanesWar" targetName="tset" />
+      <config projectName="PlanesWar" targetName="test2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0be555f2-bfad-4748-b08e-97627029e6a2" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23wzft4fwMxzqs04M00AfFIHkZw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12993\Desktop\PlanesWar\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12993\Desktop\PlanesWar\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.PlanesWar">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanesWar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PlanesWar" TARGET_NAME="PlanesWar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PlanesWar" RUN_TARGET_NAME="PlanesWar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PlanesWar" TARGET_NAME="test2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PlanesWar" RUN_TARGET_NAME="test2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tset" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PlanesWar" TARGET_NAME="tset" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PlanesWar" RUN_TARGET_NAME="tset">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.PlanesWar" />
+      <item itemvalue="CMake 应用程序.test2" />
+      <item itemvalue="CMake 应用程序.tset" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0be555f2-bfad-4748-b08e-97627029e6a2" name="更改" comment="" />
+      <created>1642660045065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642660045065</updated>
+      <workItem from="1642660046413" duration="204000" />
+      <workItem from="1642660284289" duration="4619000" />
+      <workItem from="1642673255883" duration="8959000" />
+      <workItem from="1642685319006" duration="4395000" />
+      <workItem from="1642729665665" duration="16901000" />
+      <workItem from="1642757160990" duration="148000" />
+      <workItem from="1642757328165" duration="2807000" />
+      <workItem from="1642762467244" duration="4059000" />
+      <workItem from="1642766580176" duration="1542000" />
+      <workItem from="1642906882114" duration="15102000" />
+      <workItem from="1642935538378" duration="9672000" />
+      <workItem from="1642946512349" duration="1809000" />
+      <workItem from="1642989031851" duration="8040000" />
+      <workItem from="1643005342671" duration="5025000" />
+      <workItem from="1643027222646" duration="6593000" />
+      <workItem from="1643074728828" duration="3200000" />
+      <workItem from="1643079369965" duration="1586000" />
+      <workItem from="1643089540549" duration="7409000" />
+      <workItem from="1643111041636" duration="11918000" />
+      <workItem from="1643159880033" duration="4165000" />
+      <workItem from="1643165867951" duration="588000" />
+      <workItem from="1643266247613" duration="13842000" />
+      <workItem from="1643335415901" duration="3891000" />
+      <workItem from="1643340428825" duration="15000" />
+      <workItem from="1643340771613" duration="15335000" />
+      <workItem from="1643418508416" duration="6915000" />
+      <workItem from="1643505741748" duration="11321000" />
+      <workItem from="1643543793703" duration="4267000" />
+      <workItem from="1643548199925" duration="4076000" />
+      <workItem from="1643693019882" duration="19000" />
+      <workItem from="1643693069883" duration="594000" />
+      <workItem from="1643695935396" duration="1124000" />
+      <workItem from="1643770924568" duration="2541000" />
+      <workItem from="1643773556806" duration="457000" />
+      <workItem from="1643774036646" duration="3761000" />
+      <workItem from="1643778523445" duration="1907000" />
+      <workItem from="1644287267811" duration="228000" />
+      <workItem from="1644547834274" duration="426000" />
+      <workItem from="1644548794696" duration="1104000" />
+      <workItem from="1646740939994" duration="1254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
